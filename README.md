@@ -2,6 +2,13 @@
 
 Original, unofficial German revision practice. Not endorsed by AQA. This is the public-safe collection, not a copy of every file in the private collection.
 
+## Downloads
+
+The original-practice ZIP contains 25 PDFs and one short prepositions audio summary. The newer photo-card pack is a separate download and is not inside that ZIP.
+
+- [9 original photo cards: 18 licensed photos and 36 practice questions](https://github.com/tanyoganand-ops/german-revision-resources/blob/main/1-german-higher-photo-cards.pdf). Photo credits, individual licence links and resizing notice are on its final page. Photo licences do not apply to the original card text.
+- [Original-practice ZIP](https://github.com/tanyoganand-ops/german-revision-resources/raw/refs/heads/main/1-german-original-practice.zip)
+
 ## Start here
 
 - **Speaking:** the three `german-8662-...` PDFs contain adaptable frameworks, structural upgrades and a complex-language bank. They are the newer speaking resources.
