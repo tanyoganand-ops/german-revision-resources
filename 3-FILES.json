@@ -1,0 +1,132 @@
+[
+  {
+    "file": "LISTENING-Extra-Dictation-Practice.pdf",
+    "bytes": 34642,
+    "sha256": "421ace6b09d036c82af41f530c7b5fa3768502a08d5b2e96c32ca21ed8df9523"
+  },
+  {
+    "file": "LISTENING-Foundation-Paper1-MarkScheme.pdf",
+    "bytes": 41529,
+    "sha256": "1dab98eb97359fb7943420eeb37385f800cd7a5616d6c970685e9222673e15f7"
+  },
+  {
+    "file": "LISTENING-Foundation-Paper1-QuestionPaper.pdf",
+    "bytes": 48243,
+    "sha256": "c57fe79cb6dcdc2b15b31ce769afb01a61fdc7301ac741ccc5a95a9005fa6cad"
+  },
+  {
+    "file": "LISTENING-Foundation-Paper1-Transcript.pdf",
+    "bytes": 35863,
+    "sha256": "c8269c64f5acf0d639adbb665b2c8f294ab89f02b256a98ea9a6fac93de529c0"
+  },
+  {
+    "file": "LISTENING-Higher-Paper1-MarkScheme.pdf",
+    "bytes": 39272,
+    "sha256": "8fb55f5a4e126a3f9c11d573d55abe1d4215d50cba3b9d9b733352b84ee7980d"
+  },
+  {
+    "file": "LISTENING-Higher-Paper1-QuestionPaper.pdf",
+    "bytes": 51424,
+    "sha256": "f385e3cd9a8b569c03b17cb9ed8c954ede786c6f72899473ccba092b50c1da0b"
+  },
+  {
+    "file": "LISTENING-Higher-Paper1-Transcript.pdf",
+    "bytes": 37868,
+    "sha256": "274a5d7ca80f22d4c064065249c39a489cf93e9f486a684d1a06f340576426cb"
+  },
+  {
+    "file": "READING-Foundation-Paper3-MarkScheme.pdf",
+    "bytes": 44175,
+    "sha256": "3602918f2b6d2da0102bca96a66322bfae9a82b2418c150f47644c169b01c1a4"
+  },
+  {
+    "file": "READING-Foundation-Paper3-QuestionPaper.pdf",
+    "bytes": 54882,
+    "sha256": "541bdae2fe7ce2d236a3d73e74228a11945d3d0b071f6a27b686fff859cc4af0"
+  },
+  {
+    "file": "READING-Higher-Paper3-MarkScheme.pdf",
+    "bytes": 42781,
+    "sha256": "f9de18329c820f983df2a56cabbce4779da27422b7c88854b07815252d33da61"
+  },
+  {
+    "file": "READING-Higher-Paper3-QuestionPaper.pdf",
+    "bytes": 55893,
+    "sha256": "728e47beba09f8ace586a7d49afac983c4024c07d03e7031d7f2cb46b95eedca"
+  },
+  {
+    "file": "W1-photo-sentences-F.pdf",
+    "bytes": 56548,
+    "sha256": "d33d4e94b03584e16af3edce64003013b59e7a04b86fbb74b48ed14bde1fed34"
+  },
+  {
+    "file": "W2-short-writing-50w-F.pdf",
+    "bytes": 49063,
+    "sha256": "57d9431f457063403cb68660eb04a289cf638e666908ff7130c3552ef627afae"
+  },
+  {
+    "file": "W3-grammar-gapfill-F.pdf",
+    "bytes": 46569,
+    "sha256": "ffd00b83795486d7f61d35d353ff5b0659174b186f5b962139f9ed40c25d0ef1"
+  },
+  {
+    "file": "W4-translation-en-de.pdf",
+    "bytes": 58896,
+    "sha256": "a3614b49faa9c90f907b3b98fa898d3a5d00040fa733ac77e32dd25ff6870076"
+  },
+  {
+    "file": "W5-extended-90w-FH.pdf",
+    "bytes": 50839,
+    "sha256": "60cc9a5bccba70428b75c166e2f0f27a3fe1370559cd7769486b0d6a0badcc66"
+  },
+  {
+    "file": "W6-open-150w-H.pdf",
+    "bytes": 48454,
+    "sha256": "ef2c46b12c8ad0250a5061bd086954a6032b43871b29dccab972059f36c54e44"
+  },
+  {
+    "file": "complex-language-guide.pdf",
+    "bytes": 45897,
+    "sha256": "9effcea53cdc3a868518d7fdf729df51433e91de999e5ec13970b9ce9f4c632b"
+  },
+  {
+    "file": "german-8662-higher-speaking-frameworks.pdf",
+    "bytes": 444077,
+    "sha256": "81d7ad8412f69ab204f5d3b439b64b85e0ffbe767449549ade1076d46e71e697"
+  },
+  {
+    "file": "german-8662-speaking-complex-language-bank.pdf",
+    "bytes": 181236,
+    "sha256": "8fa76f065357338c33d10fb83dcb5df736204eac49128a5fbbab3a228f6cbeec"
+  },
+  {
+    "file": "german-8662-speaking-structural-upgrades.pdf",
+    "bytes": 188955,
+    "sha256": "1391da63e73542a9abe02b196b91ddef755ef6057a479502cc45077efae09ce7"
+  },
+  {
+    "file": "german-prepositions-gcse-and-alevel.pdf",
+    "bytes": 398503,
+    "sha256": "ad6135ee968f139d83943333d34d3cdb8ef71172a8047fd7666f685e8c180c33"
+  },
+  {
+    "file": "german-prepositions-summary.ogg",
+    "bytes": 366258,
+    "sha256": "9fc14cceace3e7a4c9bfe35c1cb036532b635c67346daaa747a5d293b7755dee"
+  },
+  {
+    "file": "grammar-foundation.pdf",
+    "bytes": 95383,
+    "sha256": "4ff695c61b364af394ce6b2f607083d654326f453aec7ba1429f3de40188c4af"
+  },
+  {
+    "file": "grammar-higher-additions.pdf",
+    "bytes": 77402,
+    "sha256": "dfff9fdf3e83129b370d075d7822bef60305de22c5021ba43b81c440eab15a54"
+  },
+  {
+    "file": "phrase-frames.pdf",
+    "bytes": 45670,
+    "sha256": "ab56ab3171c8242875344fffa938d6707ac280cd048069aa5cfbd302de47a91e"
+  }
+]
